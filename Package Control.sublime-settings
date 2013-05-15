@@ -1,8 +1,12 @@
 {
 	"installed_packages":
 	[
+<<<<<<< HEAD
 		"Emmet",
 		"Package Control",
 		"View In Browser"
+=======
+		"SublimeLinter"
+>>>>>>> b549796e3675e3220a3ae057441e7670fe486d05
 	]
 }
