@@ -3,6 +3,8 @@
 	[
 		"Emmet",
 		"Git",
+		"LiveReload",
+		"Markdown Preview",
 		"Package Control",
 		"SublimeLinter",
 		"View In Browser"
