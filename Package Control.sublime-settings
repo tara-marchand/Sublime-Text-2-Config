@@ -3,9 +3,11 @@
 	[
 		"Emmet",
 		"Git",
+		"JsFormat",
 		"LiveReload",
 		"Markdown Preview",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
 		"View In Browser"
 	]
